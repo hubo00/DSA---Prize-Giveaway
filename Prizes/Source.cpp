@@ -51,6 +51,7 @@ int main() {
 			}
 		}
 	}
+	return 0;
 }
 
 // A search function which loops through a passed array and looks for a specified value until returns true/false
