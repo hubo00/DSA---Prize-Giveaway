@@ -1,3 +1,3 @@
 ﻿  Source.cpp
-D:\College\Year_3\Algorithms & Data Structures\Week_3\Lab 1\part-1\Prizes\Prizes\Source.cpp(22,43): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\College\Year_3\Algorithms & Data Structures\Week_3\Lab 1\part-1\Prizes\Prizes\Source.cpp(23,43): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Prizes.vcxproj -> D:\College\Year_3\Algorithms & Data Structures\Week_3\Lab 1\part-1\Prizes\Debug\Prizes.exe
